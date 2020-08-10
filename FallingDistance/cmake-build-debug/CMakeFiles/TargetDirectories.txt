@@ -1,0 +1,3 @@
+/home/pw2/CLionProjects/FallingDistance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pw2/CLionProjects/FallingDistance/cmake-build-debug/CMakeFiles/FallingDistance.dir
+/home/pw2/CLionProjects/FallingDistance/cmake-build-debug/CMakeFiles/edit_cache.dir
